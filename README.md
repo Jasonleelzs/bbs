@@ -1,6 +1,6 @@
 # bbs
 
-基于Flask框架的在线论坛 [点击进入蒹葭论坛](https://www.zhihu.com)
+基于Flask框架的在线论坛 [点击进入蒹葭论坛](www.freeurheart.cc)
 
 - MongoDB存取数据
 
